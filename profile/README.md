@@ -2,4 +2,11 @@
 I'm a Biotechnology and Biochemistry student at Universidad de Cordoba (UCO) here in Spain. Ever since I was young and my mum told me, "You will be a doctor"😅 I've had a strong passion for clinical work.
 In August 2026, I carried out an internship at EPILAB in Bogota D.C 🌎. There I had the opportunity to delve into the world of bioinformatics and data analysis. I want to use this platform not only to show what I did but also to show what I will learn.
 
-## My other networks
+<a href="https://orcid.org/my-orcid?orcid=0009-0003-0483-7166"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCiD"></a> <a href="https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000127625"><img src="https://img.shields.io/badge/CvLAC-004892?style=for-the-badge&logoColor=white" alt="CvLAC"></a> <a href="https://github.com/epilabco"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/dmgc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Daniel-Mauricio-Gonzalez-Cubides)
+## Contact:
+<a href="https://perfilesycapacidades.javeriana.edu.co/es/persons/go.daniel">
+  <img src="https://img.shields.io/badge/Institutional-Profile-003087?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Institutional Profile">
+</a>
+<a href="mailto:go.daniel@javeriana.edu.co">
+  <img src="https://img.shields.io/badge/Email-go.daniel@javeriana.edu.co-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
